@@ -1,0 +1,6 @@
+com\unicahiccpmp\programa_lenguaje\Aplicacion.class
+com\unicahiccpmp\dao\Conexion.class
+com\unicahiccpmp\programa_lenguaje\lenguajeitem.class
+com\unicahiccpmp\dao\LenguajesDB.class
+com\unicahiccpmp\programa_lenguaje\main.class
+com\unicahiccpmp\utilities\layout.class
